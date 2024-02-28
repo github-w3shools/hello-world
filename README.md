@@ -6,3 +6,5 @@ This tutorial focuses mainly on Git using Github as its remote
 This repository is built step by step in the tutorial.
 
 It is now includes steps for github.
+
+we are now creating a new repository from local copy.
